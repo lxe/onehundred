@@ -1,0 +1,12 @@
+{
+  "name": "onehundred",
+  "version": "1.0.0",
+  "description": "Extremely optimistic code coverage tool",
+  "main": "onehundred.js",
+  "repository": "https://github.com/lxe/onehundred",
+  "author": "Aleksey Smolenchuk <lxe@lxe.co>",
+  "license": "MIT",
+  "bin": {
+    "oneghundred": "onehundred.js"
+  }
+}
