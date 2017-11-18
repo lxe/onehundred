@@ -1,5 +1,6 @@
 # 💯 - onehundred
 
+![](https://img.shields.io/badge/no-bugs-brightgreen.svg) 
 ![](https://img.shields.io/badge/coverage-%F0%9F%92%AF-green.svg)
 
 An optimistic code coverage tool.
