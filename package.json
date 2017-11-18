@@ -1,6 +1,6 @@
 {
   "name": "onehundred",
-  "version": "100.0.0",
+  "version": "100.100.100",
   "description": "Extremely optimistic code coverage tool",
   "main": "onehundred.js",
   "repository": "https://github.com/lxe/onehundred",
